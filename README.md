@@ -43,3 +43,4 @@ If using a Pipeline job instead, choose **Pipeline script from SCM**, select Git
 ## Safety note
 
 Only expose Jenkins through a trusted, secured endpoint. Keep Jenkins updated, require authentication, and close any temporary tunnel after the lab.
+Testing GitHub Webhook.
